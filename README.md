@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3429-special-array-i](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Binary Search
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Counting
 |  |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
