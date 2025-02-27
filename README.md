@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
