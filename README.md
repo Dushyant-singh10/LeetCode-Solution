@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Bit Manipulation
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
