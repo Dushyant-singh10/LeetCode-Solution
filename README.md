@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0189-rotate-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
