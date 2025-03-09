@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3483-alternating-groups-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3483-alternating-groups-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
