@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3429-special-array-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2665-minimum-time-to-repair-cars) |
 ## Sorting
 |  |
 | ------- |
