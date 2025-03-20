@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [1019-squares-of-a-sorted-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
