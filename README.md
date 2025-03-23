@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0792-binary-search) |
+| [0948-sort-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0948-sort-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0948-sort-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sliding Window
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0948-sort-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0948-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -228,4 +232,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0258-add-digits) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
