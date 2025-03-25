@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
