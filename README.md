@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2383-add-two-integers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0258-add-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0948-sort-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
