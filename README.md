@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2383-add-two-integers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0046-permutations) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 ## Trie
 |  |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
@@ -291,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0292-nim-game) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
