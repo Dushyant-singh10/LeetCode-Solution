@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2665-minimum-time-to-repair-cars) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
