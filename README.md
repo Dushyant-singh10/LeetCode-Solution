@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0958-sort-array-by-parity-ii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
