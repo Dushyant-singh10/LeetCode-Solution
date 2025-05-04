@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1168-duplicate-zeros) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-string-matching-in-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
