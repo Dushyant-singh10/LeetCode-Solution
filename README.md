@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
