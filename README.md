@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2383-add-two-integers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2998-count-symmetric-integers) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2107-find-unique-binary-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
