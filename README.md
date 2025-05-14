@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0948-sort-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2665-minimum-time-to-repair-cars) |
