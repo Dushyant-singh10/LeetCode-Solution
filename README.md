@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [3194-find-words-containing-character](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3447-clear-digits) |
+| [3617-find-the-original-typed-string-i](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3617-find-the-original-typed-string-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
