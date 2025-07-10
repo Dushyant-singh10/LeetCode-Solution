@@ -370,4 +370,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2998-count-symmetric-integers) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
