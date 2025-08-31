@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0070-climbing-stairs) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
