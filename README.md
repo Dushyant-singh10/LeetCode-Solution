@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1524-string-matching-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Simulation
