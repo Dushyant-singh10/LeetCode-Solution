@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/0389-find-the-difference) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Dushyant-singh10/LeetCode-Solution/tree/master/2478-longest-nice-subarray) |
